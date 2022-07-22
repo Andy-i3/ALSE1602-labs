@@ -1,2 +1,2 @@
 # astra-labs
-for configs
+for configs and comments
